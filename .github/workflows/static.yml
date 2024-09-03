@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jay Kumar Jain Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .contact-info, .skills, .experience, .education {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Jay Kumar Jain</h1>
+    <p>New Delhi, India | +91 9399112543 | jayjain447@gmail.com | <a href="https://www.linkedin.com/in/Edujayy">LinkedIn Profile</a></p>
+
+    <section class="career-summary">
+        <h2>Career Summary</h2>
+        <p>
+            A seasoned Product Manager with over 3 years of experience in product management, specializing in the fintech and stock broking industries. Proven track record of leading cross-functional teams to deliver innovative products, driving significant digital adoption and financial growth. Exceptional analytical skills and a data-driven approach have been instrumental in optimizing product-market fit and enhancing product competitiveness. Adept at fostering a culture of innovation and excellence within teams, with an entrepreneurial mindset honed through building 0-to-1 business experiences.
+        </p>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Functional: Agile Product Management, Product Strategy, Stakeholder Management, User Research, User Stories, Product Growth, Cross-Functional Team Leadership, Contract Management, Regulatory Compliance</li>
+            <li>Domain Expertise: Webview App Development, KYC, Fintech Product Development, UX/UI</li>
+            <li>Interpersonal: Leadership, CXO Relationship Management, Clear Communication, Collaboration, Passion for innovation, problem-solving, and taking the initiative to drive business impact</li>
+            <li>Tools: Jira, SQL, draw.io, Figma, Microsoft Office Suite, Google Docs</li>
+            <li>Languages: HTML, CSS, Python & SQL</li>
+        </ul>
+    </section>
+
+    <section class="experience">
+        <h2>Work Experience</h2>
+
+        <h3>Product Deputy Manager, Share India, Stock Broking, On-Site (Sep 2023 - Present)</h3>
+        <ul>
+            <li>Created Product Roadmap basis inputs from customers, businesses, compliance, and IT for faster delivery of features.</li>
+            <li>Developed Business Partner digital journeys with RM and CRM Management portal.</li>
+            <li>Conducted comprehensive market research to identify and penetrate key user segments including business partner brokerage payment.</li>
+            <li>Teamed up with data analytics unit to create data pipeline drive product decisions; increased user product longevity from 2 months to 6 months.</li>
+            <li>Established governance for the product portfolio by chairing weekly, monthly, and quarterly steering cadences.</li>
+        </ul>
+
+        <h3>Business Analyst Corporate Strategy, Product Team, Swastika Investmart Limited (Jan 2022 – July 2023)</h3>
+        <ul>
+            <li>Identified client requirements and helped the company convert inactive clients into active clients by data churning on a daily basis and designing communication to improve the active percentage of clients.</li>
+            <li>Extensively worked on data and analyzed customer behavior using Mixpanel, SQL, Excel, and other data interpretation tools. Presented data through Power BI to help companies retain inactive clients and increase the number of MOU and DAU.</li>
+        </ul>
+
+        <h3>Project Manager, SkillMonitors Edtech Solutions (Mar 2019 - Sep 2021)</h3>
+        <ul>
+            <li>Facilitated business-to-business (B2B) and business-to-client (B2C) communications while collaborating with a broad range of internal teams, including marketing, account services, product, and ad operations, to support sales efforts.</li>
+            <li>Built School Management System (ERP) with the tech team and understood customer requirements and implemented them with the product.</li>
+            <li>Managed a diverse sales team, driving key focus areas and developing strategies to optimize team performance.</li>
+        </ul>
+    </section>
+
+    <section class="education">
+        <h2>Education</h2>
+        <ul>
+            <li>MBA, Finance & Marketing, IBMR Indore (Ranked 53rd in India and 3rd in Madhya Pradesh), Overall GPA: 6.5, 2017</li>
+            <li>B.Com Finance, School of Commerce Indore, India, 2015</li>
+        </ul>
+        <h3>Certifications</h3>
+        <ul>
+            <li>Generative AI</li>
+            <li>Digital Marketing</li>
+            <li>Streamlining Your Work with Microsoft Copilot</li>
+            <li>Agile Requirements Foundations</li>
+            <li>Microsoft Copilot</li>
+        </ul>
+    </section>
+
+    <section class="contact-details">
+        <h2>Contact Details</h2>
+        <ul>
+            <li>Phone: 9399112543 | 8602294862</li>
+            <li>Email: <a href="mailto:jayjain447@gmail.com">jayjain447@gmail.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/edujayy">https://www.linkedin.com/in/edujayy</a></li>
+        </ul>
+    </section>
+
+</body>
+</html>
